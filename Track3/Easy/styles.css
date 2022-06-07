@@ -1,0 +1,25 @@
+.heading {
+    color: red;
+    font-size: 120px;
+    margin-top: 2vh;
+}
+
+.d-down {
+    position: fixed;
+    width: 20vw;
+    height: 20vw;
+    top: 10vw;
+    left: 5vw;
+}
+
+.p-up{
+    display: none;
+    position: fixed;
+    width: 20vw;
+    height: 20vw;
+    top: 10vw;
+    left: 5vw;
+    background:url(./qr_code.png);
+    background-size: cover;
+
+}
