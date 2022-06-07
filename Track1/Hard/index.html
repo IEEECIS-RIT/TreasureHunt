@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Riddle Riddle Riddle</title>
+  </head>
+  <body>
+    <h1 id="clue">
+      Clue : Something that can't be removed from clothes easily
+    </h1>
+    <br>
+    <label for="hint" id="hint"> _ _ A _ _</label>
+
+    <form id="clue1" onsubmit="return submitClue1(event)">
+      <input type="text" id="ans1" />
+
+      <input type="submit" value="Check" />
+    </form>
+    <form id="clue2" hidden="true" onsubmit="return submitClue2(event)">
+      <input type="text" id="ans2" />
+
+      <input type="submit" value="Check" />
+    </form>
+    <div>
+      <p id="response"></p>
+    </div>
+  </body>
+  <script src="hard1.js">
+  </script>
+</html>
