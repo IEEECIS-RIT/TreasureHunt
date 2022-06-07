@@ -1,25 +1,40 @@
-.heading {
-    color: red;
-    font-size: 120px;
-    margin-top: 2vh;
-}
-
-.d-down {
-    position: fixed;
-    width: 20vw;
-    height: 20vw;
-    top: 10vw;
-    left: 5vw;
-}
-
-.p-up{
-    display: none;
-    position: fixed;
-    width: 20vw;
-    height: 20vw;
-    top: 10vw;
-    left: 5vw;
-    background:url(./qr_code.png);
-    background-size: cover;
-
-}
+    * {
+        font-family: 'New Super Mario Font U', sans-serif;
+    }
+    
+    body {
+        background-color: #A7ABD8;
+        justify-content: center;
+        padding-top: 10px;
+    }
+    
+    .heading {
+        color: white;
+        font-size: 120px;
+        margin-top: 2vh;
+        text-align: center;
+    }
+    
+    .div {
+        text-align: center;
+    }
+    
+    .d-down {
+        width: 20vw;
+        height: 20vw;
+        align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .p-up {
+        display: none;
+        width: 20vw;
+        height: 20vw;
+        background: url(./qr_code.png);
+        background-size: cover;
+        align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
