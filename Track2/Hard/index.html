@@ -1,21 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
     <title>Forgotten</title>
-</head>
-<body>
-    <center>
-
-    <div>
-        <img class= "main-image" src="./assets/1.jpg">
-        <input type="text" name="password" id="password">
-        <input type="submit" value="Submit">
+  </head>
+  <body>
+    <div class="clue">
+      <center>
+        <h3>rODEO PLEasE LeT mE kNOW</h3>
+        <h4>
+          Lil Nas X has forgotten the password to his computer. You need to
+          crack his password.
+          <br />
+          Thankfully, Mr. Lil has provided you an audio clip and an image, which
+          is all that he remembers about his password.
+          <br />
+          Crack it.
+        </h4>
+        <div>
+          <form onsubmit="return mySubmitFunction(event)">
+            <label class="input-title">Password:</label>
+            <input
+              class="input-field"
+              type="text"
+              name="password"
+              id="password"
+              autofocus
+            />
+            <input class="input-button" type="submit" value="Check" />
+          </form>
+          <h4>Hints</h4>
+          <audio controls class="hint1">
+            <source src="./assets/audio1.mp3" type="audio/mpeg" />
+            Your browser does not support the audio element.
+          </audio>
+          <img class="main-image" src="./assets/1.jpg" />
+        </div>
+      </center>
     </div>
-    </center>
 
-</body>
+
+    <script src="index.js"></script>
+  </body>
 </html>
