@@ -19,14 +19,33 @@ const clue2 = `
 </div>
 `;
 
+let count1 = 0
+let count2 = false
+
 function mySubmitFunction(e) {
   e.preventDefault();
-  let data = document.getElementById("password").value;
+  count1++;
+  const inputDiv = document.getElementById("password")
+  let data = inputDiv.value;
   const mainDiv = document.querySelector(".clue");
+  const hints = document.querySelector("#hints")
   data = data.toUpperCase();
   if (data === "NOAH GLASS") {
+    count1 = 0;
     mainDiv.innerHTML = clue2;
   }
+  else if (data === 'ODEO'){
+    count1 = 0;
+    count2 = true
+    hints.innerHTML = "You are so close to the password! Maybe the internet has something for you..."
+  }else{
+    hints.innerHTML = "Try Again"
+    inputDiv.value = ""
+  }
+  if(count1 === 10 && !count2){
+    hints.innerHTML = "Windows Password Manager has a hint for you: SANRWICH COOKIE CONSISTING OF TWO WAFEDS WITH A SWEET CDEME FILLING"
+  }
+
 }
 
 function myFinalFunction(e) {
