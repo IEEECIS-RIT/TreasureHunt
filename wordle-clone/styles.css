@@ -10,13 +10,14 @@ body {
   min-height: 100vh;
   margin: 0;
   padding: 1em;
-  font-size: clamp(.5rem, 2.5vmin, 1.5rem);
+  font-size: clamp(.5rem, 2.0vmin, 1.5rem);
 }
+
 
 .keyboard {
   display: grid;
   grid-template-columns: repeat(20, minmax(auto, 1.25em));
-  grid-auto-rows: 3em;
+  grid-auto-rows: 2.8em;
   gap: .25em;
   justify-content: center;
 }
@@ -47,8 +48,8 @@ body {
 }
 
 .key > svg {
-  width: 1.75em;
-  height: 1.75em;
+  width: 1.5em;
+  height: 1.5em;
 }
 
 .key:hover, .key:focus {
