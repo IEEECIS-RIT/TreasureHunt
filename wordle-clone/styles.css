@@ -10,13 +10,13 @@ body {
   min-height: 100vh;
   margin: 0;
   padding: 1em;
-  font-size: clamp(.5rem, 2.0vmin, 1.5rem);
+  font-size: clamp(0.8rem, 2vmin, 2rem);
 }
 
 
 .keyboard {
   display: grid;
-  grid-template-columns: repeat(20, minmax(auto, 1.25em));
+  grid-template-columns: repeat(20, minmax(auto, 1.2em));
   grid-auto-rows: 2.8em;
   gap: .25em;
   justify-content: center;
@@ -84,7 +84,7 @@ body {
 }
 
 .tile {
-  font-size: 2em;
+  font-size: 3em;
   color: white;
   border: .05em solid hsl(240, 2%, 23%);
   text-transform: uppercase;

@@ -17,6 +17,7 @@ const approvedWords = [
     "abbed",
     "abbes",
     "abcee",
+    "qwert",
     "abeam",
     "abear",
     "abele",
