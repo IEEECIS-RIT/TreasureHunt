@@ -1,1 +1,62 @@
-const _0x2c731a=_0x1f62;function _0x1112(){const _0x3e9661=['preventDefault','\x0a<div\x20class=\x22clue\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<center>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Noah\x20Glass,\x20the\x20guy\x20who\x20came\x20up\x20with\x20one\x20of\x20the\x20world\x27s\x20most\x20famous\x20company\x20names,\x20was\x20ousted\x20long\x20ago.\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</h3>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<form\x20onsubmit=\x22return\x20myFinalFunction(event)\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20class=\x22input-title\x22>Identify\x20the\x20company:</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20class=\x22input-field\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20type=\x22text\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20name=\x22company\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20id=\x22company\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20autofocus\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20class=\x22input-button\x22\x20type=\x22submit\x22\x20value=\x22Check\x22\x20/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</form>\x0a\x20\x20\x20\x20</center>\x0a</div>\x0a','value','<h1>Head\x20over\x20to\x20our\x20official\x20twitter\x20account\x20for\x20your\x20next\x20clue!</h1>','toUpperCase','425162VjOVaj','87212uYZtxP','4378311rHKikP','7970290EnAhrn','6559420RDHisZ','3SkcZXf','9155616oyOCwb','66azugdX','innerHTML','Try\x20Again','8fnVfuM','company','Windows\x20Password\x20Manager\x20has\x20a\x20hint\x20for\x20you:\x20SANRWICH\x20COOKIE\x20CONSISTING\x20OF\x20TWO\x20WAFEDS\x20WITH\x20A\x20SWEET\x20CDEME\x20FILLING','You\x20are\x20so\x20close\x20to\x20the\x20password!\x20Maybe\x20the\x20internet\x20has\x20something\x20for\x20you...','ODEO','1175890BqlvDO','getElementById','NOAH\x20GLASS','querySelector','5kncxWJ','.clue'];_0x1112=function(){return _0x3e9661;};return _0x1112();}function _0x1f62(_0x446219,_0x1e64f2){const _0x1112c0=_0x1112();return _0x1f62=function(_0x1f6294,_0x3abc18){_0x1f6294=_0x1f6294-0x102;let _0x18afb6=_0x1112c0[_0x1f6294];return _0x18afb6;},_0x1f62(_0x446219,_0x1e64f2);}(function(_0x5a54de,_0x1fb1c8){const _0x47cc94=_0x1f62,_0x5a86c7=_0x5a54de();while(!![]){try{const _0x2d4f0f=-parseInt(_0x47cc94(0x108))/0x1+-parseInt(_0x47cc94(0x117))/0x2*(parseInt(_0x47cc94(0x10d))/0x3)+-parseInt(_0x47cc94(0x109))/0x4*(parseInt(_0x47cc94(0x11b))/0x5)+-parseInt(_0x47cc94(0x10e))/0x6+-parseInt(_0x47cc94(0x10c))/0x7+parseInt(_0x47cc94(0x112))/0x8*(-parseInt(_0x47cc94(0x10a))/0x9)+parseInt(_0x47cc94(0x10b))/0xa*(parseInt(_0x47cc94(0x10f))/0xb);if(_0x2d4f0f===_0x1fb1c8)break;else _0x5a86c7['push'](_0x5a86c7['shift']());}catch(_0x4d7b8a){_0x5a86c7['push'](_0x5a86c7['shift']());}}}(_0x1112,0xc2c5d));const clue2=_0x2c731a(0x104);let count1=0x0,count2=![];function mySubmitFunction(_0x280442){const _0x3d2e4f=_0x2c731a;_0x280442['preventDefault'](),count1++;const _0x135ed6=document['getElementById']('password');let _0x205d56=_0x135ed6[_0x3d2e4f(0x105)];const _0x395d55=document[_0x3d2e4f(0x11a)](_0x3d2e4f(0x102)),_0x39a74d=document[_0x3d2e4f(0x11a)]('#hints');_0x205d56=_0x205d56[_0x3d2e4f(0x107)]();if(_0x205d56===_0x3d2e4f(0x119))count1=0x0,_0x395d55[_0x3d2e4f(0x110)]=clue2;else _0x205d56===_0x3d2e4f(0x116)?(count1=0x0,count2=!![],_0x39a74d[_0x3d2e4f(0x110)]=_0x3d2e4f(0x115)):(_0x39a74d[_0x3d2e4f(0x110)]=_0x3d2e4f(0x111),_0x135ed6[_0x3d2e4f(0x105)]='');count1===0xa&&!count2&&(_0x39a74d['innerHTML']=_0x3d2e4f(0x114));}function myFinalFunction(_0x246589){const _0x60fb7f=_0x2c731a;_0x246589[_0x60fb7f(0x103)]();let _0x556c4a=document[_0x60fb7f(0x118)](_0x60fb7f(0x113))['value'];const _0x404bf5=document['querySelector'](_0x60fb7f(0x102));_0x556c4a=_0x556c4a['toUpperCase'](),_0x556c4a==='TWITTER'&&(_0x404bf5['innerHTML']=_0x60fb7f(0x106));}
+const clue2 = `
+<div class="clue">
+        <center>
+            <h3>
+                Noah Glass, the guy who came up with one of the world's most famous company names, was ousted long ago.
+            </h3>
+            <form onsubmit="return myFinalFunction(event)">
+            <label class="input-title">Identify the company:</label>
+            <input
+                class="input-field"
+                type="text"
+                name="company"
+                id="company"
+                autofocus
+            />
+            <input class="input-button" type="submit" value="Check" />
+        </form>
+    </center>
+</div>
+`;
+
+let count1 = 0
+let count2 = false
+
+function mySubmitFunction(e) {
+  e.preventDefault();
+  count1++;
+  const inputDiv = document.getElementById("password")
+  let data = inputDiv.value;
+  const mainDiv = document.querySelector(".clue");
+  const hints = document.querySelector("#hints")
+  data = data.toUpperCase();
+  if (data === "NOAH GLASS") {
+    count1 = 0;
+    mainDiv.innerHTML = clue2;
+  }
+  else if (data === 'ODEO'){
+    count1 = 0;
+    count2 = true
+    hints.innerHTML = "You are so close to the password! Maybe the internet has something for you..."
+  }else{
+    hints.innerHTML = "Try Again"
+    inputDiv.value = ""
+  }
+  if(count1 === 10 && !count2){
+    hints.innerHTML = "Windows Password Manager has a hint for you: SANRWICH COOKIE CONSISTING OF TWO WAFEDS WITH A SWEET CDEME FILLING"
+  }else if(count1 === 5 && !count2){
+    hints.innerHTML = "Lil Nas really doesnt want to lose his data! He has sent you an audio clip that should help you."
+    document.querySelector(".hint1").style.display = "block"
+  }
+
+}
+
+function myFinalFunction(e) {
+  e.preventDefault();
+  let data = document.getElementById("company").value;
+  const mainDiv = document.querySelector(".clue");
+  data = data.toUpperCase();
+  if (data === "TWITTER") {
+    mainDiv.innerHTML = `<h1>Head over to our official twitter account for your next clue!</h1>`;
+  }
+}

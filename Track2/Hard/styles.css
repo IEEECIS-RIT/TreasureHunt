@@ -1,5 +1,15 @@
+* {
+  font-family: "Dancing Script", cursive;
+  font-family: "Roboto Slab", serif;
+}
+
+body {
+   
+}
+
 .main-image {
   width: 20vw;
+  display: block;
 }
 
 .input-field {
@@ -7,7 +17,7 @@
   margin-left: 1vh;
   padding: 10px;
   border: 0;
-  box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.06);
+  box-shadow: 0 0 15px 4px rgba(143, 65, 65, 0.06);
 }
 
 .input-title {
@@ -16,7 +26,11 @@
   width: 150px;
 }
 
-.hint1{
-    display: block;
-    padding: 2%;
+.hint1 {
+  display: none;
+  padding: 2%;
+}
+
+.header-img {
+  width: 90vw;
 }
