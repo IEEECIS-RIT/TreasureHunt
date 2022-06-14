@@ -9,7 +9,7 @@ body {
 }
 
 .webgl {
-  height: 300px;
-  width: 200px;
+  height: 80vh;
+  width: 100vh;
   z-index: 1;
 }

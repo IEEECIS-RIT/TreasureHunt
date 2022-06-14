@@ -41,15 +41,15 @@ gltfLoader.load(
  * Sizes
  */
 const sizes = {
-    width: 250,
-    height: 400
+    width: document.querySelector('canvas.webgl').offsetWidth,
+    height: document.querySelector('canvas.webgl').offsetHeight
 }
 
 window.addEventListener('resize', () =>
 {
     // Update sizes
-    sizes.width = 250
-    sizes.height = 400
+    sizes.width = document.querySelector('canvas.webgl').offsetWidth,
+    sizes.height = document.querySelector('canvas.webgl').offsetHeight
 
     // Update camera
     camera.aspect = sizes.width / sizes.height
@@ -67,7 +67,7 @@ window.addEventListener('resize', () =>
 const camera = new THREE.PerspectiveCamera(45, sizes.width / sizes.height, 0.1, 100)
 camera.position.x = 0
 camera.position.y = 0
-camera.position.z = 7
+camera.position.z = 12
 
 // Controls
 const controls = new OrbitControls(camera, canvas)
