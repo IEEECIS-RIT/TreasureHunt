@@ -180,7 +180,7 @@ function checkWinLose(guess, tiles) {
     document.querySelector(".res").className += " fade";
     document.querySelector(
       ".res"
-    ).innerHTML = `<img src="https://i.imgflip.com/6j880n.jpg" title="{link}"/>`;
+    ).innerHTML = `<a href="https://volumemist.netlify.app/"><img src="https://i.imgflip.com/6j880n.jpg" title="https://volumemist.netlify.app/"/></a>`;
     showAlert("Yay you got that right!", null);
     danceTiles(tiles);
     stopInteraction();

@@ -33,7 +33,7 @@ const getInput = () => {
     console.log("Higher");
   } else if (numIn == 786) {
     document.getElementById("theGuessing").style.display = "none";
-    console.log("shorturl.at/kCDP3");
+    console.log("shorturl.at/tAJK6");
   }
   document.getElementById("numInput").value = "";
 };
