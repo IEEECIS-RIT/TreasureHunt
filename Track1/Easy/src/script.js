@@ -1,3 +1,5 @@
+import './style.css'
+
 var counter = 0;
 var db;
 var name;
