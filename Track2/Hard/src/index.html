@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -10,13 +10,12 @@
       rel="stylesheet"
     />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="styles.css" />
     <title>Forgotten</title>
   </head>
   <body>
     <div class="clue">
       <center>
-        <img class="header-img" src="./assets/1.png" alt="" />
+        <img class="header-img" src="../static/1.png" alt="" />
         <h4>
           Lil Nas X has forgotten the password to his computer. You need to
           crack his password.
@@ -27,12 +26,12 @@
           Crack it.
         </h4>
         <div>
-          <img class="main-image" src="./assets/1.jpg" />
+          <img class="main-image" src="../static/1.jpg" />
           <audio controls class="hint1">
-            <source src="./assets/audio1.mp3" type="audio/mpeg" />
+            <source src="../static/audio1.mp3" type="audio/mpeg" />
             Your browser does not support the audio element.
           </audio>
-          <form onsubmit="return mySubmitFunction(event)">
+          <form>
             <label class="input-title">Password:</label>
             <input
               class="input-field"
@@ -42,24 +41,11 @@
               autofocus
             />
 
-            <input class="input-button" type="submit" value="Check" />
+            <input class="input-button" type="submit" value="Check" id="input1" />
             <h3 id="hints"></h3>
           </form>
         </div>
       </center>
     </div>
-    <script type="text/javascript">
-        window.onbeforeunload = function() {
-            return "All progress will be lost if you leave!";
-        }
-    </script>
-    <script type = "text/javascript">  
-        window.onload = function () {  
-            document.onkeydown = function (e) {  
-                return (e.which || e.keyCode) != 116;  
-            };  
-        }  
-    </script>  
-    <script src="index.js"></script>
   </body>
 </html>
