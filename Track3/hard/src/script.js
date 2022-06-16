@@ -1,138 +1,139 @@
-function _0x3bb7(_0x4ec319, _0x434923) {
-  const _0x2c7b81 = _0x2c7b();
-  return (
-    (_0x3bb7 = function (_0x3bb7dc, _0x191765) {
-      _0x3bb7dc = _0x3bb7dc - 0xf4;
-      let _0x4fad27 = _0x2c7b81[_0x3bb7dc];
-      return _0x4fad27;
-    }),
-    _0x3bb7(_0x4ec319, _0x434923)
-  );
-}
-const _0x11f3b5 = _0x3bb7;
-(function (_0x326db1, _0x54ca79) {
-  const _0x5202a7 = _0x3bb7,
-    _0x3cbe1a = _0x326db1();
-  while (!![]) {
-    try {
-      const _0x4127cf =
-        parseInt(_0x5202a7(0x105)) / 0x1 +
-        parseInt(_0x5202a7(0x10f)) / 0x2 +
-        (parseInt(_0x5202a7(0x11a)) / 0x3) *
-          (-parseInt(_0x5202a7(0x113)) / 0x4) +
-        -parseInt(_0x5202a7(0x101)) / 0x5 +
-        -parseInt(_0x5202a7(0x117)) / 0x6 +
-        -parseInt(_0x5202a7(0x111)) / 0x7 +
-        parseInt(_0x5202a7(0xfb)) / 0x8;
-      if (_0x4127cf === _0x54ca79) break;
-      else _0x3cbe1a["push"](_0x3cbe1a["shift"]());
-    } catch (_0x38df07) {
-      _0x3cbe1a["push"](_0x3cbe1a["shift"]());
-    }
-  }
-})(_0x2c7b, 0x3feae);
-import "./style.css";
-(window[_0x11f3b5(0x109)] = function () {
-  return "All\x20progress\x20will\x20be\x20lost\x20if\x20you\x20leave!";
-}),
-  (window[_0x11f3b5(0x10a)] = function () {
-    const _0xed5f11 = _0x11f3b5;
-    document[_0xed5f11(0xf7)] = function (_0x22c2c8) {
-      const _0x577d2e = _0xed5f11;
-      return (
-        (_0x22c2c8[_0x577d2e(0x119)] || _0x22c2c8[_0x577d2e(0x114)]) != 0x74
-      );
-    };
-  });
-function _0x2c7b() {
-  const _0x1959c5 = [
-    "ans1",
-    "351242GpKGil",
-    "preventDefault",
-    "addEventListener",
-    "hidden",
+function _0x2c71() {
+  const _0x2946d8 = [
+    "click",
+    "toLowerCase",
+    "value",
+    "stack\x20overflow",
+    "30hXZzEn",
+    "innerHTML",
+    "395092JFFpVn",
+    "YOU\x20are\x20very\x20close.",
+    "engineers",
     "onbeforeunload",
-    "onload",
-    "clue",
+    "clue2",
+    "hint",
     "true",
     "getElementById",
-    "Your\x20answer\x20was\x20correct!!<br><br>Clue\x203:\x20Go\x20to\x20our\x20Sanjay\x20Singhania\x27s\x20Stack\x20Overflow\x20Profile\x20and\x20search\x20fo\x20the\x20next\x20clue.",
-    "293236sKVZVf",
-    "stackoverflow",
-    "1170393LIUTEU",
-    "click",
-    "91092cnxIAA",
-    "keyCode",
+    "engineering",
+    "9984546pgskuV",
+    "All\x20progress\x20will\x20be\x20lost\x20if\x20you\x20leave!",
+    "addEventListener",
     "engineer",
+    "Your\x20answer\x20was\x20correct!!<br><br>Clue\x203:\x20Go\x20to\x20Sanjay\x20Singhania\x27s\x20Stack\x20Overflow\x20Profile\x20and\x20search\x20fo\x20the\x20next\x20clue.\x20<h6>Don\x27t\x20bully\x20him\x20guys,\x20he\x27s\x20new\x20there.</h6>",
     "Try\x20Again",
-    "2400708LGbWsg",
-    "hint",
-    "which",
-    "24hhzrXj",
-    "stack\x20overflow",
-    "toLowerCase",
-    "input2",
-    "onkeydown",
-    "innerText",
-    "\x0a<div\x20id\x20=\x20\x22clue2\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src\x20=\x20\x22../static/1.jpg\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<p>Sanjay\x20Singhania\x20recently\x20joined\x20Stack\x20Overflow.\x20Your\x20next\x20clue\x20is\x20hidden\x20in\x20his\x20Stack\x20Overflow\x20profile.\x20But\x20because\x20of\x20his\x20short\x20term\x20memory\x20loss\x20problem,\x20he\x20has\x20forgotten\x20his\x20Stack\x20Overflow\x20Display\x20Name.\x20All\x20he\x20remembers\x20is\x20this\x20meme\x20template\x20below\x20-</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src\x20=\x20\x22../static/2.jpg\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<p>Can\x20YOU\x20help\x20him\x20remember\x20his\x20username???</p>\x0a\x20\x20\x20\x20<form\x20id=\x22clue2-form\x22>\x0a\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22ans2\x22\x20/>\x0a\x20\x20\x20\x20\x20\x20<input\x20type=\x22submit\x22\x20value=\x22Check\x22\x20id=\x22input2\x22\x20/>\x0a\x20\x20\x20\x20</form>\x0a\x20\x20\x0a</div>\x0a",
-    "value",
-    "7589424tFDrJl",
-    "response",
-    "log",
-    "ans2",
-    "clue2",
-    "setAttribute",
-    "2176155dorHDL",
-    "innerHTML",
+    "onload",
+    "2uhMtYb",
+    "3947076FMrKJy",
+    "preventDefault",
     "input1",
+    "log",
+    "hidden",
+    "innerText",
+    "2989296cCnvRJ",
+    "923920WBFDUY",
+    "stackoverflow",
+    "clue",
+    "88259NriRYZ",
+    "57900AlOkSY",
+    "input2",
+    "response",
+    "ans2",
   ];
-  _0x2c7b = function () {
-    return _0x1959c5;
+  _0x2c71 = function () {
+    return _0x2946d8;
   };
-  return _0x2c7b();
+  return _0x2c71();
 }
-const clue2 = _0x11f3b5(0xf9),
-  submitClue1 = (_0x27cef9) => {
-    const _0x10a6a8 = _0x11f3b5;
-    _0x27cef9[_0x10a6a8(0x106)]();
-    let _0x1a4529 = document[_0x10a6a8(0x10d)](_0x10a6a8(0x104))[
-      _0x10a6a8(0xfa)
-    ];
-    console[_0x10a6a8(0xfd)](_0x1a4529),
-      _0x1a4529["toLowerCase"]() == _0x10a6a8(0xf4) ||
-      _0x1a4529["toLowerCase"] == _0x10a6a8(0x110)
-        ? ((document[_0x10a6a8(0x10d)](_0x10a6a8(0xfc))[_0x10a6a8(0xf8)] = ""),
-          (document["getElementById"](_0x10a6a8(0x10b))[_0x10a6a8(0x102)] =
+const _0x2d7e9e = _0x3625;
+(function (_0x39a181, _0x134675) {
+  const _0x142bbe = _0x3625,
+    _0x388d17 = _0x39a181();
+  while (!![]) {
+    try {
+      const _0x2b3c97 =
+        (parseInt(_0x142bbe(0x87)) / 0x1) * (-parseInt(_0x142bbe(0xa2)) / 0x2) +
+        -parseInt(_0x142bbe(0x88)) / 0x3 +
+        (parseInt(_0x142bbe(0x92)) / 0x4) * (parseInt(_0x142bbe(0x90)) / 0x5) +
+        parseInt(_0x142bbe(0x83)) / 0x6 +
+        parseInt(_0x142bbe(0x7d)) / 0x7 +
+        -parseInt(_0x142bbe(0x84)) / 0x8 +
+        -parseInt(_0x142bbe(0x9b)) / 0x9;
+      if (_0x2b3c97 === _0x134675) break;
+      else _0x388d17["push"](_0x388d17["shift"]());
+    } catch (_0x6e83e5) {
+      _0x388d17["push"](_0x388d17["shift"]());
+    }
+  }
+})(_0x2c71, 0x4eae7);
+function _0x3625(_0x1a93ad, _0x1dbf96) {
+  const _0x2c711d = _0x2c71();
+  return (
+    (_0x3625 = function (_0x36254e, _0x522497) {
+      _0x36254e = _0x36254e - 0x7d;
+      let _0x28957e = _0x2c711d[_0x36254e];
+      return _0x28957e;
+    }),
+    _0x3625(_0x1a93ad, _0x1dbf96)
+  );
+}
+import "./style.css";
+(window[_0x2d7e9e(0x95)] = function () {
+  const _0x2b5dc2 = _0x2d7e9e;
+  return _0x2b5dc2(0x9c);
+}),
+  (window[_0x2d7e9e(0xa1)] = function () {
+    document["onkeydown"] = function (_0x53408a) {
+      return (_0x53408a["which"] || _0x53408a["keyCode"]) != 0x74;
+    };
+  });
+const clue2 =
+    "\x0a<div\x20id\x20=\x20\x22clue2\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src\x20=\x20\x22https://i.ibb.co/yR5KbwP/1.jpg\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<p>Sanjay\x20Singhania\x20recently\x20joined\x20Stack\x20Overflow.\x20Your\x20next\x20clue\x20is\x20hidden\x20in\x20his\x20Stack\x20Overflow\x20profile.\x20But\x20because\x20of\x20his\x20short\x20term\x20memory\x20loss\x20problem,\x20he\x20has\x20forgotten\x20his\x20Stack\x20Overflow\x20Display\x20Name.\x20All\x20he\x20remembers\x20is\x20seeing\x20these\x20three\x20people\x20and\x20there\x27s\x20something\x20common\x20in\x20all\x20three\x20of\x20them.-</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id\x20=\x20\x22container\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src\x20=\x20\x22https://i.ibb.co/4gkYCg1/2.jpg\x22width\x20=\x20\x2220%\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src\x20=\x20\x22https://i.ibb.co/mJMZ4yy/image.png\x22width\x20=\x20\x2220%\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src\x20=\x20\x22https://i.ibb.co/vHxwRqR/4.jpg\x22width\x20=\x20\x2220%\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<p>Connect\x20the\x20dots.\x20</p>\x0a\x20\x20\x20\x20<form\x20id=\x22clue2-form\x22>\x0a\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22ans2\x22\x20/>\x0a\x20\x20\x20\x20\x20\x20<input\x20type=\x22submit\x22\x20value=\x22Check\x22\x20id=\x22input2\x22\x20/>\x0a\x20\x20\x20\x20</form>\x0a\x20\x20\x0a</div>\x0a",
+  clue4 = _0x2d7e9e(0x9f),
+  submitClue1 = (_0x483373) => {
+    const _0x4e0707 = _0x2d7e9e;
+    _0x483373[_0x4e0707(0x7e)]();
+    let _0x46335a = document[_0x4e0707(0x99)]("ans1")[_0x4e0707(0x8e)];
+    console[_0x4e0707(0x80)](_0x46335a),
+      _0x46335a[_0x4e0707(0x8d)]() == _0x4e0707(0x8f) ||
+      _0x46335a[_0x4e0707(0x8d)] == _0x4e0707(0x85)
+        ? ((document[_0x4e0707(0x99)](_0x4e0707(0x8a))[_0x4e0707(0x82)] = ""),
+          (document["getElementById"](_0x4e0707(0x86))[_0x4e0707(0x91)] =
             "Your\x20answer\x20was\x20correct!!<br><br>Here\x27s\x20your\x20next\x20clue."),
-          (document[_0x10a6a8(0x10d)](_0x10a6a8(0x118))[_0x10a6a8(0x102)] =
-            clue2),
-          document[_0x10a6a8(0x10d)](_0x10a6a8(0xf6))[_0x10a6a8(0x107)](
-            _0x10a6a8(0x112),
+          (document[_0x4e0707(0x99)](_0x4e0707(0x97))[_0x4e0707(0x91)] = clue2),
+          document[_0x4e0707(0x99)](_0x4e0707(0x89))[_0x4e0707(0x9d)](
+            _0x4e0707(0x8c),
             submitClue2
           ))
-        : (document[_0x10a6a8(0x10d)](_0x10a6a8(0xfc))[_0x10a6a8(0xf8)] =
-            "Try\x20Again");
+        : (document["getElementById"]("response")[_0x4e0707(0x82)] =
+            _0x4e0707(0xa0));
   },
-  submitClue2 = (_0x2ab957) => {
-    const _0x26da63 = _0x11f3b5;
-    _0x2ab957[_0x26da63(0x106)]();
-    let _0x1a919d = document[_0x26da63(0x10d)](_0x26da63(0xfe))[
-      _0x26da63(0xfa)
+  submitClue2 = (_0x5a04f7) => {
+    const _0x1de352 = _0x2d7e9e;
+    _0x5a04f7[_0x1de352(0x7e)]();
+    let _0x385c31 = document["getElementById"](_0x1de352(0x8b))[
+      _0x1de352(0x8e)
     ];
-    console[_0x26da63(0xfd)](_0x1a919d);
-    if (_0x1a919d[_0x26da63(0xf5)]() == _0x26da63(0x115))
-      (document["getElementById"](_0x26da63(0x10b))[_0x26da63(0x102)] =
-        _0x26da63(0x10e)),
-        document[_0x26da63(0x10d)](_0x26da63(0xff))[_0x26da63(0x100)](
-          _0x26da63(0x108),
-          _0x26da63(0x10c)
+    console[_0x1de352(0x80)](_0x385c31);
+    if (_0x385c31[_0x1de352(0x8d)]() == _0x1de352(0x9e))
+      (document[_0x1de352(0x99)]("clue")[_0x1de352(0x91)] = clue4),
+        document[_0x1de352(0x99)](_0x1de352(0x96))["setAttribute"](
+          _0x1de352(0x81),
+          _0x1de352(0x98)
         ),
-        (document[_0x26da63(0x10d)](_0x26da63(0xfc))["innerText"] = "");
-    else
-      document[_0x26da63(0x10d)](_0x26da63(0xfc))[_0x26da63(0xf8)] =
-        _0x26da63(0x116);
+        (document[_0x1de352(0x99)](_0x1de352(0x8a))[_0x1de352(0x82)] = "");
+    else {
+      if (
+        _0x385c31[_0x1de352(0x8d)]() == _0x1de352(0x9a) ||
+        _0x385c31[_0x1de352(0x8d)]() == _0x1de352(0x94)
+      )
+        document[_0x1de352(0x99)](_0x1de352(0x8a))[_0x1de352(0x82)] =
+          _0x1de352(0x93);
+      else
+        document[_0x1de352(0x99)]("response")[_0x1de352(0x82)] =
+          _0x1de352(0xa0);
+    }
   };
-document["getElementById"](_0x11f3b5(0x103))["addEventListener"](
-  _0x11f3b5(0x112),
+document[_0x2d7e9e(0x99)](_0x2d7e9e(0x7f))[_0x2d7e9e(0x9d)](
+  _0x2d7e9e(0x8c),
   submitClue1
 );
