@@ -1,316 +1,289 @@
-const _0x8cdc03 = _0x4e98;
-(function (_0x40dddc, _0x5b9b23) {
-  const _0xea63db = _0x4e98,
-    _0x17e0c3 = _0x40dddc();
-  while (!![]) {
-    try {
-      const _0x25312f =
-        (parseInt(_0xea63db(0x1c0)) / 0x1) *
-          (-parseInt(_0xea63db(0x1b1)) / 0x2) +
-        (-parseInt(_0xea63db(0x1bb)) / 0x3) *
-          (-parseInt(_0xea63db(0x1b3)) / 0x4) +
-        (-parseInt(_0xea63db(0x1bd)) / 0x5) *
-          (parseInt(_0xea63db(0x189)) / 0x6) +
-        (parseInt(_0xea63db(0x1b8)) / 0x7) *
-          (-parseInt(_0xea63db(0x1af)) / 0x8) +
-        parseInt(_0xea63db(0x1ac)) / 0x9 +
-        -parseInt(_0xea63db(0x1bc)) / 0xa +
-        parseInt(_0xea63db(0x199)) / 0xb;
-      if (_0x25312f === _0x5b9b23) break;
-      else _0x17e0c3["push"](_0x17e0c3["shift"]());
-    } catch (_0x1eb6e2) {
-      _0x17e0c3["push"](_0x17e0c3["shift"]());
-    }
+var _0x7196 = [
+  "\x5B\x64\x61\x74\x61\x2D\x6B\x65\x79\x62\x6F\x61\x72\x64\x5D",
+  "\x71\x75\x65\x72\x79\x53\x65\x6C\x65\x63\x74\x6F\x72",
+  "\x5B\x64\x61\x74\x61\x2D\x61\x6C\x65\x72\x74\x2D\x63\x6F\x6E\x74\x61\x69\x6E\x65\x72\x5D",
+  "\x5B\x64\x61\x74\x61\x2D\x67\x75\x65\x73\x73\x2D\x67\x72\x69\x64\x5D",
+  "\x6E\x6F\x77",
+  "\x65\x69\x67\x68\x74",
+  "\x6D\x79\x4D\x6F\x64\x61\x6C",
+  "\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64",
+  "\x6D\x79\x42\x74\x6E",
+  "\x63\x6C\x6F\x73\x65",
+  "\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x79\x43\x6C\x61\x73\x73\x4E\x61\x6D\x65",
+  "\x6F\x6E\x63\x6C\x69\x63\x6B",
+  "\x64\x69\x73\x70\x6C\x61\x79",
+  "\x73\x74\x79\x6C\x65",
+  "\x62\x6C\x6F\x63\x6B",
+  "\x6E\x6F\x6E\x65",
+  "\x74\x61\x72\x67\x65\x74",
+  "\x63\x6C\x69\x63\x6B",
+  "\x61\x64\x64\x45\x76\x65\x6E\x74\x4C\x69\x73\x74\x65\x6E\x65\x72",
+  "\x6B\x65\x79\x64\x6F\x77\x6E",
+  "\x72\x65\x6D\x6F\x76\x65\x45\x76\x65\x6E\x74\x4C\x69\x73\x74\x65\x6E\x65\x72",
+  "\x6D\x61\x74\x63\x68\x65\x73",
+  "\x6C\x6F\x67",
+  "\x5B\x64\x61\x74\x61\x2D\x6B\x65\x79\x5D",
+  "\x6B\x65\x79",
+  "\x64\x61\x74\x61\x73\x65\x74",
+  "\x5B\x64\x61\x74\x61\x2D\x65\x6E\x74\x65\x72\x5D",
+  "\x5B\x64\x61\x74\x61\x2D\x64\x65\x6C\x65\x74\x65\x5D",
+  "\x45\x6E\x74\x65\x72",
+  "\x42\x61\x63\x6B\x73\x70\x61\x63\x65",
+  "\x44\x65\x6C\x65\x74\x65",
+  "\x6D\x61\x74\x63\x68",
+  "\x6C\x65\x6E\x67\x74\x68",
+  "\x3A\x6E\x6F\x74\x28\x5B\x64\x61\x74\x61\x2D\x6C\x65\x74\x74\x65\x72\x5D\x29",
+  "\x6C\x65\x74\x74\x65\x72",
+  "\x74\x6F\x4C\x6F\x77\x65\x72\x43\x61\x73\x65",
+  "\x74\x65\x78\x74\x43\x6F\x6E\x74\x65\x6E\x74",
+  "\x73\x74\x61\x74\x65",
+  "\x61\x63\x74\x69\x76\x65",
+  "",
+  "\x4E\x6F\x74\x20\x65\x6E\x6F\x75\x67\x68\x20\x6C\x65\x74\x74\x65\x72\x73",
+  "\x72\x65\x64\x75\x63\x65",
+  "\x69\x6E\x63\x6C\x75\x64\x65\x73",
+  "\x4E\x6F\x74\x20\x69\x6E\x20\x77\x6F\x72\x64\x20\x6C\x69\x73\x74",
+  "\x66\x6F\x72\x45\x61\x63\x68",
+  "\x5B\x64\x61\x74\x61\x2D\x6B\x65\x79\x3D\x22",
+  "\x22\x69\x5D",
+  "\x66\x6C\x69\x70",
+  "\x61\x64\x64",
+  "\x63\x6C\x61\x73\x73\x4C\x69\x73\x74",
+  "\x74\x72\x61\x6E\x73\x69\x74\x69\x6F\x6E\x65\x6E\x64",
+  "\x72\x65\x6D\x6F\x76\x65",
+  "\x63\x6F\x72\x72\x65\x63\x74",
+  "\x77\x72\x6F\x6E\x67\x2D\x6C\x6F\x63\x61\x74\x69\x6F\x6E",
+  "\x77\x72\x6F\x6E\x67",
+  "\x5B\x64\x61\x74\x61\x2D\x73\x74\x61\x74\x65\x3D\x22\x61\x63\x74\x69\x76\x65\x22\x5D",
+  "\x71\x75\x65\x72\x79\x53\x65\x6C\x65\x63\x74\x6F\x72\x41\x6C\x6C",
+  "\x5B\x64\x61\x74\x61\x2D\x6C\x65\x74\x74\x65\x72\x5D",
+  "\x64\x69\x76",
+  "\x63\x72\x65\x61\x74\x65\x45\x6C\x65\x6D\x65\x6E\x74",
+  "\x61\x6C\x65\x72\x74",
+  "\x70\x72\x65\x70\x65\x6E\x64",
+  "\x68\x69\x64\x65",
+  "\x73\x68\x61\x6B\x65",
+  "\x61\x6E\x69\x6D\x61\x74\x69\x6F\x6E\x65\x6E\x64",
+  "\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C",
+  "\x2E\x68\x65\x61\x64\x69\x6E\x67",
+  "\x68\x74\x74\x70\x73\x3A\x2F\x2F\x62\x69\x74\x2E\x6C\x79\x2F\x33\x62\x34\x79\x4F\x68\x47",
+  "\x63\x6C\x61\x73\x73\x4E\x61\x6D\x65",
+  "\x2E\x72\x65\x73",
+  "\x20\x66\x61\x64\x65",
+  "\x3C\x61\x20\x68\x72\x65\x66\x3D\x22\x68\x74\x74\x70\x73\x3A\x2F\x2F\x66\x61\x72\x6E\x65\x61\x72\x2E\x6E\x65\x74\x6C\x69\x66\x79\x2E\x61\x70\x70\x2F\x22\x3E\x3C\x69\x6D\x67\x20\x73\x72\x63\x3D\x22\x68\x74\x74\x70\x73\x3A\x2F\x2F\x69\x2E\x69\x6D\x67\x66\x6C\x69\x70\x2E\x63\x6F\x6D\x2F\x36\x6A\x38\x38\x30\x6E\x2E\x6A\x70\x67\x22\x20\x74\x69\x74\x6C\x65\x3D\x22\x68\x74\x74\x70\x73\x3A\x2F\x2F\x66\x61\x72\x6E\x65\x61\x72\x2E\x6E\x65\x74\x6C\x69\x66\x79\x2E\x61\x70\x70\x2F\x22\x2F\x3E\x3C\x2F\x61\x3E",
+  "\x59\x61\x79\x20\x79\x6F\x75\x20\x67\x6F\x74\x20\x74\x68\x61\x74\x20\x72\x69\x67\x68\x74\x21",
+  "\x4F\x6F\x70\x73\x21\x20\x59\x6F\x75\x20\x64\x69\x64\x6E\x74\x20\x67\x65\x74\x20\x74\x68\x65\x20\x77\x6F\x72\x64\x21\x20\x54\x72\x79\x20\x61\x67\x61\x69\x6E",
+  "\x64\x61\x6E\x63\x65",
+];
+const WORD_LENGTH = 5;
+const FLIP_ANIMATION_DURATION = 1;
+const DANCE_ANIMATION_DURATION = 1;
+const keyboard = document[_0x7196[1]](_0x7196[0]);
+const alertContainer = document[_0x7196[1]](_0x7196[2]);
+const guessGrid = document[_0x7196[1]](_0x7196[3]);
+const offsetFromDate = new Date(2022, 0, 1);
+const msOffset = Date[_0x7196[4]]() - offsetFromDate;
+const dayOffset = msOffset / 1000 / 60 / 60 / 24;
+const targetWord = _0x7196[5];
+var modal = document[_0x7196[7]](_0x7196[6]);
+var btn = document[_0x7196[7]](_0x7196[8]);
+var span = document[_0x7196[10]](_0x7196[9])[0];
+btn[_0x7196[11]] = function () {
+  modal[_0x7196[13]][_0x7196[12]] = _0x7196[14];
+};
+span[_0x7196[11]] = function () {
+  modal[_0x7196[13]][_0x7196[12]] = _0x7196[15];
+};
+window[_0x7196[11]] = function (_0x6fb9xe) {
+  if (_0x6fb9xe[_0x7196[16]] == modal) {
+    modal[_0x7196[13]][_0x7196[12]] = _0x7196[15];
   }
-})(_0x133a, 0xc17df);
-const WORD_LENGTH = 0x5,
-  FLIP_ANIMATION_DURATION = 0x1,
-  DANCE_ANIMATION_DURATION = 0x1,
-  keyboard = document["querySelector"](_0x8cdc03(0x1b6)),
-  alertContainer = document["querySelector"](_0x8cdc03(0x1a3)),
-  guessGrid = document[_0x8cdc03(0x190)]("[data-guess-grid]"),
-  offsetFromDate = new Date(0x7e6, 0x0, 0x1),
-  msOffset = Date["now"]() - offsetFromDate,
-  dayOffset = msOffset / 0x3e8 / 0x3c / 0x3c / 0x18,
-  targetWord = "eight";
+};
 startInteraction();
 function startInteraction() {
-  const _0x1979e1 = _0x8cdc03;
-  document["addEventListener"]("click", handleMouseClick),
-    document[_0x1979e1(0x1ad)]("keydown", handleKeyPress);
+  document[_0x7196[18]](_0x7196[17], handleMouseClick);
+  document[_0x7196[18]](_0x7196[19], handleKeyPress);
 }
 function stopInteraction() {
-  const _0x273851 = _0x8cdc03;
-  document[_0x273851(0x1a0)]("click", handleMouseClick),
-    document[_0x273851(0x1a0)](_0x273851(0x1a9), handleKeyPress);
+  document[_0x7196[20]](_0x7196[17], handleMouseClick);
+  document[_0x7196[20]](_0x7196[19], handleKeyPress);
 }
-function handleMouseClick(_0x2a89e5) {
-  const _0x238e65 = _0x8cdc03;
-  console["log"](_0x2a89e5["target"]["matches"]);
-  if (_0x2a89e5[_0x238e65(0x1aa)][_0x238e65(0x1a2)](_0x238e65(0x19c))) {
-    pressKey(_0x2a89e5[_0x238e65(0x1aa)][_0x238e65(0x19e)]["key"]);
+function handleMouseClick(_0x6fb9x12) {
+  console[_0x7196[22]](_0x6fb9x12[_0x7196[16]][_0x7196[21]]);
+  if (_0x6fb9x12[_0x7196[16]][_0x7196[21]](_0x7196[23])) {
+    pressKey(_0x6fb9x12[_0x7196[16]][_0x7196[25]][_0x7196[24]]);
     return;
   }
-  if (_0x2a89e5["target"]["matches"]("[data-enter]")) {
+  if (_0x6fb9x12[_0x7196[16]][_0x7196[21]](_0x7196[26])) {
     submitGuess();
     return;
   }
-  if (_0x2a89e5["target"][_0x238e65(0x1a2)](_0x238e65(0x1a6))) {
+  if (_0x6fb9x12[_0x7196[16]][_0x7196[21]](_0x7196[27])) {
     deleteKey();
     return;
   }
 }
-function _0x133a() {
-  const _0x532578 = [
-    ".res",
-    "toLowerCase",
-    "remove",
-    "reduce",
-    "Oops!\x20You\x20didnt\x20get\x20the\x20word!\x20Try\x20again",
-    ":not([data-letter])",
-    "Delete",
-    "24947670AWHeJQ",
-    "[data-state=\x22active\x22]",
-    "animationend",
-    "[data-key]",
-    "length",
-    "dataset",
-    "transitionend",
-    "removeEventListener",
-    "textContent",
-    "matches",
-    "[data-alert-container]",
-    "[data-key=\x22",
-    "wrong",
-    "[data-delete]",
-    "hide",
-    "wrong-location",
-    "keydown",
-    "target",
-    "letter",
-    "2894328hsMctH",
-    "addEventListener",
-    "classList",
-    "7328792USZFnG",
-    "<a\x20href=\x22https://friendlyhelicopter.netlify.app/\x22><img\x20src=\x22https://i.imgflip.com/6j880n.jpg\x22\x20title=\x22https://friendlyhelicopter.netlify.app/\x22/></a>",
-    "2jyapkC",
-    "\x20fade",
-    "17984gCOjRu",
-    "Not\x20enough\x20letters",
-    "shake",
-    "[data-keyboard]",
-    "\x22i]",
-    "7yfBMXR",
-    "Backspace",
-    "dance",
-    "621HuHCQs",
-    "10602580jogOHH",
-    "709405wCKwtI",
-    "querySelectorAll",
-    "active",
-    "325691yhIPSc",
-    ".heading",
-    "state",
-    "correct",
-    "div",
-    "forEach",
-    "18rULZlY",
-    "prepend",
-    "includes",
-    "flip",
-    "key",
-    "add",
-    "[data-letter]",
-    "querySelector",
-    "innerHTML",
-  ];
-  _0x133a = function () {
-    return _0x532578;
-  };
-  return _0x133a();
-}
-function _0x4e98(_0x522e7f, _0x187fb1) {
-  const _0x133a42 = _0x133a();
-  return (
-    (_0x4e98 = function (_0x4e9880, _0xefe4a2) {
-      _0x4e9880 = _0x4e9880 - 0x186;
-      let _0x3a4b6a = _0x133a42[_0x4e9880];
-      return _0x3a4b6a;
-    }),
-    _0x4e98(_0x522e7f, _0x187fb1)
-  );
-}
-function handleKeyPress(_0x5f3154) {
-  const _0x1b41ff = _0x8cdc03;
-  if (_0x5f3154[_0x1b41ff(0x18d)] === "Enter") {
+function handleKeyPress(_0x6fb9x12) {
+  if (_0x6fb9x12[_0x7196[24]] === _0x7196[28]) {
     submitGuess();
     return;
   }
   if (
-    _0x5f3154[_0x1b41ff(0x18d)] === _0x1b41ff(0x1b9) ||
-    _0x5f3154[_0x1b41ff(0x18d)] === _0x1b41ff(0x198)
+    _0x6fb9x12[_0x7196[24]] === _0x7196[29] ||
+    _0x6fb9x12[_0x7196[24]] === _0x7196[30]
   ) {
     deleteKey();
     return;
   }
-  if (_0x5f3154[_0x1b41ff(0x18d)]["match"](/^[a-z]$/)) {
-    pressKey(_0x5f3154[_0x1b41ff(0x18d)]);
+  if (_0x6fb9x12[_0x7196[24]][_0x7196[31]](/^[a-z]$/)) {
+    pressKey(_0x6fb9x12[_0x7196[24]]);
     return;
   }
 }
-function pressKey(_0x2369d7) {
-  const _0x3a1e11 = _0x8cdc03,
-    _0x365308 = getActiveTiles();
-  if (_0x365308[_0x3a1e11(0x19d)] >= WORD_LENGTH) return;
-  const _0x515bd3 = guessGrid[_0x3a1e11(0x190)](_0x3a1e11(0x197));
-  (_0x515bd3[_0x3a1e11(0x19e)][_0x3a1e11(0x1ab)] =
-    _0x2369d7[_0x3a1e11(0x193)]()),
-    (_0x515bd3[_0x3a1e11(0x1a1)] = _0x2369d7),
-    (_0x515bd3[_0x3a1e11(0x19e)][_0x3a1e11(0x1c2)] = _0x3a1e11(0x1bf));
+function pressKey(_0x6fb9x15) {
+  const _0x6fb9x16 = getActiveTiles();
+  if (_0x6fb9x16[_0x7196[32]] >= WORD_LENGTH) {
+    return;
+  }
+  const _0x6fb9x17 = guessGrid[_0x7196[1]](_0x7196[33]);
+  _0x6fb9x17[_0x7196[25]][_0x7196[34]] = _0x6fb9x15[_0x7196[35]]();
+  _0x6fb9x17[_0x7196[36]] = _0x6fb9x15;
+  _0x6fb9x17[_0x7196[25]][_0x7196[37]] = _0x7196[38];
 }
 function deleteKey() {
-  const _0x1bec86 = _0x8cdc03,
-    _0x2ea1a0 = getActiveTiles(),
-    _0x1054b9 = _0x2ea1a0[_0x2ea1a0[_0x1bec86(0x19d)] - 0x1];
-  if (_0x1054b9 == null) return;
-  (_0x1054b9["textContent"] = ""),
-    delete _0x1054b9["dataset"]["state"],
-    delete _0x1054b9[_0x1bec86(0x19e)][_0x1bec86(0x1ab)];
+  const _0x6fb9x16 = getActiveTiles();
+  const _0x6fb9x19 = _0x6fb9x16[_0x6fb9x16[_0x7196[32]] - 1];
+  if (_0x6fb9x19 == null) {
+    return;
+  }
+  _0x6fb9x19[_0x7196[36]] = _0x7196[39];
+  delete _0x6fb9x19[_0x7196[25]][_0x7196[37]];
+  delete _0x6fb9x19[_0x7196[25]][_0x7196[34]];
 }
 function submitGuess() {
-  const _0xb144f = _0x8cdc03,
-    _0x43ecf4 = [...getActiveTiles()];
-  if (_0x43ecf4[_0xb144f(0x19d)] !== WORD_LENGTH) {
-    showAlert(_0xb144f(0x1b4)), shakeTiles(_0x43ecf4);
+  const _0x6fb9x16 = [...getActiveTiles()];
+  if (_0x6fb9x16[_0x7196[32]] !== WORD_LENGTH) {
+    showAlert(_0x7196[40]);
+    shakeTiles(_0x6fb9x16);
     return;
   }
-  const _0x409522 = _0x43ecf4[_0xb144f(0x195)]((_0x201e3f, _0x528988) => {
-    const _0x8c9ccd = _0xb144f;
-    return _0x201e3f + _0x528988[_0x8c9ccd(0x19e)][_0x8c9ccd(0x1ab)];
-  }, "");
-  if (!approvedWords[_0xb144f(0x18b)](_0x409522)) {
-    showAlert("Not\x20in\x20word\x20list"), shakeTiles(_0x43ecf4);
+  const _0x6fb9x1b = _0x6fb9x16[_0x7196[41]]((_0x6fb9x1c, _0x6fb9x1d) => {
+    return _0x6fb9x1c + _0x6fb9x1d[_0x7196[25]][_0x7196[34]];
+  }, _0x7196[39]);
+  if (!approvedWords[_0x7196[42]](_0x6fb9x1b)) {
+    showAlert(_0x7196[43]);
+    shakeTiles(_0x6fb9x16);
     return;
   }
-  stopInteraction(),
-    _0x43ecf4["forEach"]((..._0x302b88) => flipTile(..._0x302b88, _0x409522));
-}
-function flipTile(_0x34e3d1, _0x533ca8, _0x3c970d, _0x1694b6) {
-  const _0x19ce9a = _0x8cdc03,
-    _0x34dc97 = _0x34e3d1[_0x19ce9a(0x19e)][_0x19ce9a(0x1ab)],
-    _0x341e98 = keyboard["querySelector"](
-      _0x19ce9a(0x1a4) + _0x34dc97 + _0x19ce9a(0x1b7)
-    );
-  setTimeout(() => {
-    const _0x2bf5d0 = _0x19ce9a;
-    _0x34e3d1[_0x2bf5d0(0x1ae)][_0x2bf5d0(0x18e)](_0x2bf5d0(0x18c));
-  }, (_0x533ca8 * FLIP_ANIMATION_DURATION) / 0x2),
-    _0x34e3d1[_0x19ce9a(0x1ad)](
-      "transitionend",
-      () => {
-        const _0x21cfa5 = _0x19ce9a;
-        _0x34e3d1["classList"][_0x21cfa5(0x194)](_0x21cfa5(0x18c));
-        if (targetWord[_0x533ca8] === _0x34dc97)
-          (_0x34e3d1[_0x21cfa5(0x19e)][_0x21cfa5(0x1c2)] = "correct"),
-            _0x341e98["classList"][_0x21cfa5(0x18e)](_0x21cfa5(0x186));
-        else
-          targetWord[_0x21cfa5(0x18b)](_0x34dc97)
-            ? ((_0x34e3d1[_0x21cfa5(0x19e)][_0x21cfa5(0x1c2)] =
-                _0x21cfa5(0x1a8)),
-              _0x341e98[_0x21cfa5(0x1ae)]["add"](_0x21cfa5(0x1a8)))
-            : ((_0x34e3d1[_0x21cfa5(0x19e)][_0x21cfa5(0x1c2)] =
-                _0x21cfa5(0x1a5)),
-              _0x341e98[_0x21cfa5(0x1ae)][_0x21cfa5(0x18e)](_0x21cfa5(0x1a5)));
-        _0x533ca8 === _0x3c970d[_0x21cfa5(0x19d)] - 0x1 &&
-          _0x34e3d1[_0x21cfa5(0x1ad)](
-            "transitionend",
-            () => {
-              startInteraction(), checkWinLose(_0x1694b6, _0x3c970d);
-            },
-            { once: !![] }
-          );
-      },
-      { once: !![] }
-    );
-}
-function getActiveTiles() {
-  const _0x151344 = _0x8cdc03;
-  return guessGrid[_0x151344(0x1be)](_0x151344(0x19a));
-}
-function setActiveTiles() {
-  const _0x467e20 = _0x8cdc03,
-    _0x190afd = guessGrid["querySelectorAll"](_0x467e20(0x18f));
-  for (
-    let _0x968772 = 0x0;
-    _0x968772 < _0x190afd[_0x467e20(0x19d)];
-    _0x968772++
-  ) {
-    (_0x190afd[_0x968772][_0x467e20(0x1a1)] = ""),
-      delete _0x190afd[_0x968772]["dataset"][_0x467e20(0x1c2)],
-      delete _0x190afd[_0x968772][_0x467e20(0x19e)][_0x467e20(0x1ab)];
-  }
-}
-function showAlert(_0x3ef8cf, _0x43ea30 = 0x3e8) {
-  const _0x1a84ed = _0x8cdc03,
-    _0x10ea97 = document["createElement"](_0x1a84ed(0x187));
-  (_0x10ea97[_0x1a84ed(0x1a1)] = _0x3ef8cf),
-    _0x10ea97[_0x1a84ed(0x1ae)][_0x1a84ed(0x18e)]("alert"),
-    alertContainer[_0x1a84ed(0x18a)](_0x10ea97);
-  if (_0x43ea30 == null) return;
-  setTimeout(() => {
-    const _0x133bfc = _0x1a84ed;
-    _0x10ea97[_0x133bfc(0x1ae)]["add"](_0x133bfc(0x1a7)),
-      _0x10ea97["addEventListener"](_0x133bfc(0x19f), () => {
-        _0x10ea97["remove"]();
-      });
-  }, _0x43ea30);
-}
-function shakeTiles(_0x1b5777) {
-  const _0x49cce = _0x8cdc03;
-  _0x1b5777[_0x49cce(0x188)]((_0x176881) => {
-    const _0x405f29 = _0x49cce;
-    _0x176881["classList"][_0x405f29(0x18e)](_0x405f29(0x1b5)),
-      _0x176881["addEventListener"](
-        _0x405f29(0x19b),
-        () => {
-          const _0x2d0797 = _0x405f29;
-          _0x176881[_0x2d0797(0x1ae)]["remove"](_0x2d0797(0x1b5));
-        },
-        { once: !![] }
-      );
+  stopInteraction();
+  _0x6fb9x16[_0x7196[44]]((..._0x6fb9x1e) => {
+    return flipTile(..._0x6fb9x1e, _0x6fb9x1b);
   });
 }
-function checkWinLose(_0x1618ab, _0x3b6080) {
-  const _0x2c3b5a = _0x8cdc03;
-  if (_0x1618ab === targetWord) {
-    (document["querySelector"](_0x2c3b5a(0x1c1))[_0x2c3b5a(0x191)] =
-      "https://bit.ly/3QhSfnl"),
-      (document[_0x2c3b5a(0x190)](".res")["className"] += _0x2c3b5a(0x1b2)),
-      (document[_0x2c3b5a(0x190)](_0x2c3b5a(0x192))["innerHTML"] =
-        _0x2c3b5a(0x1b0)),
-      showAlert("Yay\x20you\x20got\x20that\x20right!", null),
-      danceTiles(_0x3b6080),
-      stopInteraction();
+function flipTile(_0x6fb9x1d, _0x6fb9x20, _0x6fb9x21, _0x6fb9x1b) {
+  const _0x6fb9x22 = _0x6fb9x1d[_0x7196[25]][_0x7196[34]];
+  const _0x6fb9x15 = keyboard[_0x7196[1]](
+    `${_0x7196[45]}${_0x6fb9x22}${_0x7196[46]}`
+  );
+  setTimeout(() => {
+    _0x6fb9x1d[_0x7196[49]][_0x7196[48]](_0x7196[47]);
+  }, (_0x6fb9x20 * FLIP_ANIMATION_DURATION) / 2);
+  _0x6fb9x1d[_0x7196[18]](
+    _0x7196[50],
+    () => {
+      _0x6fb9x1d[_0x7196[49]][_0x7196[51]](_0x7196[47]);
+      if (targetWord[_0x6fb9x20] === _0x6fb9x22) {
+        _0x6fb9x1d[_0x7196[25]][_0x7196[37]] = _0x7196[52];
+        _0x6fb9x15[_0x7196[49]][_0x7196[48]](_0x7196[52]);
+      } else {
+        if (targetWord[_0x7196[42]](_0x6fb9x22)) {
+          _0x6fb9x1d[_0x7196[25]][_0x7196[37]] = _0x7196[53];
+          _0x6fb9x15[_0x7196[49]][_0x7196[48]](_0x7196[53]);
+        } else {
+          _0x6fb9x1d[_0x7196[25]][_0x7196[37]] = _0x7196[54];
+          _0x6fb9x15[_0x7196[49]][_0x7196[48]](_0x7196[54]);
+        }
+      }
+      if (_0x6fb9x20 === _0x6fb9x21[_0x7196[32]] - 1) {
+        _0x6fb9x1d[_0x7196[18]](
+          _0x7196[50],
+          () => {
+            startInteraction();
+            checkWinLose(_0x6fb9x1b, _0x6fb9x21);
+          },
+          { once: true }
+        );
+      }
+    },
+    { once: true }
+  );
+}
+function getActiveTiles() {
+  return guessGrid[_0x7196[56]](_0x7196[55]);
+}
+function setActiveTiles() {
+  const _0x6fb9x25 = guessGrid[_0x7196[56]](_0x7196[57]);
+  for (let _0x6fb9x26 = 0; _0x6fb9x26 < _0x6fb9x25[_0x7196[32]]; _0x6fb9x26++) {
+    _0x6fb9x25[_0x6fb9x26][_0x7196[36]] = _0x7196[39];
+    delete _0x6fb9x25[_0x6fb9x26][_0x7196[25]][_0x7196[37]];
+    delete _0x6fb9x25[_0x6fb9x26][_0x7196[25]][_0x7196[34]];
+  }
+}
+function showAlert(_0x6fb9x28, _0x6fb9x29 = 1000) {
+  const _0x6fb9x2a = document[_0x7196[59]](_0x7196[58]);
+  _0x6fb9x2a[_0x7196[36]] = _0x6fb9x28;
+  _0x6fb9x2a[_0x7196[49]][_0x7196[48]](_0x7196[60]);
+  alertContainer[_0x7196[61]](_0x6fb9x2a);
+  if (_0x6fb9x29 == null) {
     return;
   }
-  const _0x5521e9 = guessGrid[_0x2c3b5a(0x1be)](_0x2c3b5a(0x197));
-  _0x5521e9[_0x2c3b5a(0x19d)] === 0x0 &&
-    (showAlert(_0x2c3b5a(0x196), 0x7d0), setActiveTiles(), startInteraction());
+  setTimeout(() => {
+    _0x6fb9x2a[_0x7196[49]][_0x7196[48]](_0x7196[62]);
+    _0x6fb9x2a[_0x7196[18]](_0x7196[50], () => {
+      _0x6fb9x2a[_0x7196[51]]();
+    });
+  }, _0x6fb9x29);
 }
-function danceTiles(_0x40cdd0) {
-  const _0x4d3548 = _0x8cdc03;
-  _0x40cdd0[_0x4d3548(0x188)]((_0x53f31b, _0x4d6854) => {
+function shakeTiles(_0x6fb9x2c) {
+  _0x6fb9x2c[_0x7196[44]]((_0x6fb9x1d) => {
+    _0x6fb9x1d[_0x7196[49]][_0x7196[48]](_0x7196[63]);
+    _0x6fb9x1d[_0x7196[18]](
+      _0x7196[64],
+      () => {
+        _0x6fb9x1d[_0x7196[49]][_0x7196[51]](_0x7196[63]);
+      },
+      { once: true }
+    );
+  });
+}
+function checkWinLose(_0x6fb9x1b, _0x6fb9x2c) {
+  if (_0x6fb9x1b === targetWord) {
+    document[_0x7196[1]](_0x7196[66])[_0x7196[65]] = _0x7196[67];
+    document[_0x7196[1]](_0x7196[69])[_0x7196[68]] += _0x7196[70];
+    document[_0x7196[1]](_0x7196[69])[_0x7196[65]] = `${_0x7196[71]}`;
+    showAlert(_0x7196[72], null);
+    danceTiles(_0x6fb9x2c);
+    stopInteraction();
+    return;
+  }
+  const _0x6fb9x2e = guessGrid[_0x7196[56]](_0x7196[33]);
+  if (_0x6fb9x2e[_0x7196[32]] === 0) {
+    showAlert(_0x7196[73], 2000);
+    setActiveTiles();
+    startInteraction();
+  }
+}
+function danceTiles(_0x6fb9x2c) {
+  _0x6fb9x2c[_0x7196[44]]((_0x6fb9x1d, _0x6fb9x20) => {
     setTimeout(() => {
-      const _0x580231 = _0x4e98;
-      _0x53f31b[_0x580231(0x1ae)][_0x580231(0x18e)](_0x580231(0x1ba)),
-        _0x53f31b["addEventListener"](
-          _0x580231(0x19b),
-          () => {
-            const _0x432c61 = _0x580231;
-            _0x53f31b[_0x432c61(0x1ae)][_0x432c61(0x194)](_0x432c61(0x1ba));
-          },
-          { once: !![] }
-        );
-    }, (_0x4d6854 * DANCE_ANIMATION_DURATION) / 0x5);
+      _0x6fb9x1d[_0x7196[49]][_0x7196[48]](_0x7196[74]);
+      _0x6fb9x1d[_0x7196[18]](
+        _0x7196[64],
+        () => {
+          _0x6fb9x1d[_0x7196[49]][_0x7196[51]](_0x7196[74]);
+        },
+        { once: true }
+      );
+    }, (_0x6fb9x20 * DANCE_ANIMATION_DURATION) / 5);
   });
 }

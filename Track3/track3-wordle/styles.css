@@ -1,4 +1,6 @@
-*, *::after, *::before {
+*,
+*::after,
+*::before {
   box-sizing: border-box;
   font-family: Arial;
 }
@@ -13,12 +15,62 @@ body {
   font-size: clamp(0.8rem, 2vmin, 2rem);
 }
 
+.htp {
+  width: 90%;
+}
+#myBtn {
+  position: fixed;
+  top: 5vh;
+  left: 10vw;
+  width: 5vw;
+  height: 5vw;
+  font-weight: 800;
+  border-radius: 100%;
+  background-color: darksalmon;
+}
+
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0, 0, 0); /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.3); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #121214;
+  margin: 15% auto; /* 15% from the top and centered */
+  padding: 20px;
+  border: 1px solid #888;
+  width: 70%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button */
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
 
 .keyboard {
   display: grid;
   grid-template-columns: repeat(20, minmax(auto, 1.2em));
   grid-auto-rows: 2.8em;
-  gap: .25em;
+  gap: 0.25em;
   justify-content: center;
 }
 
@@ -38,7 +90,7 @@ body {
   color: white;
   fill: white;
   text-transform: uppercase;
-  border-radius: .25em;
+  border-radius: 0.25em;
   cursor: pointer;
   user-select: none;
 }
@@ -52,7 +104,8 @@ body {
   height: 1.5em;
 }
 
-.key:hover, .key:focus {
+.key:hover,
+.key:focus {
   --lightness-offset: 10%;
 }
 
@@ -79,14 +132,14 @@ body {
   flex-grow: 1;
   grid-template-columns: repeat(5, 4em);
   grid-template-rows: repeat(6, 4em);
-  gap: .25em;
+  gap: 0.25em;
   margin-bottom: 1em;
 }
 
 .tile {
   font-size: 3em;
   color: white;
-  border: .05em solid hsl(240, 2%, 23%);
+  border: 0.05em solid hsl(240, 2%, 23%);
   text-transform: uppercase;
   font-weight: bold;
   display: flex;
@@ -156,23 +209,23 @@ body {
 @keyframes dance {
   20% {
     transform: translateY(-50%);
-  }  
+  }
 
   40% {
     transform: translateY(5%);
-  }  
+  }
 
   60% {
     transform: translateY(-25%);
-  }  
+  }
 
   80% {
     transform: translateY(2.5%);
-  }  
+  }
 
   90% {
     transform: translateY(-5%);
-  }  
+  }
 
   100% {
     transform: translateY(0);
@@ -193,11 +246,11 @@ body {
 .alert {
   pointer-events: none;
   background-color: hsl(204, 7%, 85%);
-  padding: .75em;
-  border-radius: .25em;
+  padding: 0.75em;
+  border-radius: 0.25em;
   opacity: 1;
   transition: opacity 500ms ease-in-out;
-  margin-bottom: .5em;
+  margin-bottom: 0.5em;
 }
 
 .alert:last-child {
