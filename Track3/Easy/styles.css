@@ -26,11 +26,11 @@
     
     .p-up {
         display: none;
+        background: url(./qr_code.png);
+        position: absolute;
+        background-size: cover;
         width: 20vw;
         height: 20vw;
-        background: url(./qr_code.png);
-        background-size: cover;
-        align: center;
-        margin-left: auto;
-        margin-right: auto;
+        top: 0;
+        left: 0;
     }
