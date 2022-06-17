@@ -21,3 +21,8 @@ img {
 h6 {
     font-size: 15px;
 }
+
+p {
+    width: 70vw;
+    font-size: x-large;
+}
