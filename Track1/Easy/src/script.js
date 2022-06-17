@@ -68,7 +68,7 @@ const _0x40fd13 = _0x3658;
     }
   }
 })(_0x13d2, 0x3ef1b);
-import "./style.css";z
+import "./style.css";
 function _0x13d2() {
   const _0x9bd2x8 = [
     _0x6529[2],
